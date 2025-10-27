@@ -1,16 +1,91 @@
-# React + Vite
+# 📧 Email.js API Project  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![GitHub Repo stars](https://img.shields.io/github/stars/codes-vicky/Email.js-API?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codes-vicky/Email.js-API?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/codes-vicky/Email.js-API)
+![License](https://img.shields.io/github/license/codes-vicky/Email.js-API)
+![Made with](https://img.shields.io/badge/Made%20with-❤️%20HTML%2C%20CSS%2C%20JS-blue)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview  
+This project demonstrates how to send emails directly from your website using **Email.js API** without needing any backend code.  
+You can easily connect your contact form and start sending messages instantly 📤  
 
-## React Compiler
+---
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## 🧩 Features  
+✅ Send emails using Email.js API  
+✅ Simple and clean UI  
+✅ No backend required  
+✅ Works with any HTML/JavaScript frontend  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used  
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Email.js)**  
+
+---
+
+## ⚙️ Installation  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/codes-vicky/Email.js-API.git
+git clone https://github.com/codes-vicky/Email.js-API.git
+
+2️⃣ Go to the Project Directory
+cd Email.js-API
+
+3️⃣ Install Dependencies (if needed)
+(If you are using any npm packages)
+npm install
+
+🧠 How to Use
+📨 Step 1: Get Your Email.js Account
+
+Go to EmailJS.com
+ and sign up for a free account.
+
+⚙️ Step 2: Create Email Service & Template
+
+Create a new service (e.g. Gmail, Outlook, etc.)
+
+Create an email template with fields like name, email, and message.
+
+Copy your:
+
+Service ID
+
+Template ID
+
+Public Key
+📁 Folder Structure
+Email.js-API/
+├── public/
+├── src/
+│   ├── email.js
+│   ├── index.html
+│   └── style.css
+├── package.json
+└── README.md
+
+
+💡 Example Output
+
+When you fill and submit the form, you’ll get an alert or confirmation like ✅ “Message Sent Successfully”.
+
+📬 Connect With Me
+
+👤 Gaurav Yadav
+🔗 GitHub Profile
+
+🌐 Portfolio – Coming Soon...
+
+
+---
+
+Would you like me to add **screenshots placeholders** (like “![App Screenshot](screenshot.png)”) and a **live demo link** section also?  
+It’ll make your README look even more professional for GitHub.
