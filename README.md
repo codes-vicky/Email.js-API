@@ -23,8 +23,8 @@ You can easily connect your contact form and start sending messages instantly �
 ---
 
 ## 🛠️ Technologies Used  
-- **HTML5**  
-- **CSS3**  
+- **React.js**  
+- **Tailwind Css**  
 - **JavaScript (Email.js)**  
 
 ---
