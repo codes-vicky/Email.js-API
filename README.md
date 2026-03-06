@@ -89,3 +89,4 @@ When you fill and submit the form, you’ll get an alert or confirmation like �
 
 Would you like me to add **screenshots placeholders** (like “![App Screenshot](screenshot.png)”) and a **live demo link** section also?  
 It’ll make your README look even more professional for GitHub.
+this is a email.js file edit
