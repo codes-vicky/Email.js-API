@@ -12,6 +12,10 @@
 This project demonstrates how to send emails directly from your website using **Email.js API** without needing any backend code.  
 You can easily connect your contact form and start sending messages instantly 📤  
 
+
+LIVE DEMO -- https://codes-vicky.github.io/Email.js-API/
+
+
 ---
 
 ## 🧩 Features  
